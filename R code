@@ -1,17 +1,3 @@
----
-"Don Anderson"
-title: "MSDS 6371 Real Estate Analysis"
-output:
-  word_document: default
-  html_document: default
-  pdf_document: default
-date: "2022-12-10"
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # ANALYSIS 1: Relationship between Ames House Prices & Area, Neighborhood
 ## Introduction
 This analysis project is based on data about the housing market. We will build different linear regression models to find any relationship between House Prices and Living Area of the Houses in three different neighborhoods. There are 25 neighborhoods in this dataset. In this analysis we are interseted in following three neighborhoods: NAmes, Edwards and BrkSide. 
